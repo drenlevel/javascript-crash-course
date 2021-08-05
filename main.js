@@ -321,7 +321,7 @@ ul.lastElementChild.innerHTML = '<h1>Hello</h1>';
 }); */
 
 const myForm = document.querySelector('#my-form');
-const myInput = document.querySelector('#name');
+const nameInput = document.querySelector('#name');
 const emailInput = document.querySelector('#email');
 const msg = document.querySelector('#msg');
 const userList = document.querySelector('#users');
